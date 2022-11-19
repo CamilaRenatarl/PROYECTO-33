@@ -1,2 +1,1 @@
-# PROYECTO-33
-TIRO CON ARC0 ETAPA 6
+# Solución del proyecto 33
